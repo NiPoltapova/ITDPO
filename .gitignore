@@ -1,0 +1,71 @@
+# Visual Studio files
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.nupkg
+*.user
+*.userosscache
+*.sln.docstates
+
+# C# и .NET files
+*.csproj
+*.vbproj
+*.fsproj
+*.cs
+*.vb
+*.fs
+*.cshtml
+*.aspx
+*.ascx
+*.ashx
+*.asmx
+*.svc
+*.edmx
+*.dbml
+*.xsd
+*.xss
+*.xsc
+*.config
+*.settings
+*.resx
+*.resources
+
+# Binaries и obj files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.manifest
+
+# Logs и temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+*.user
+*.suo
+*.ntvs*
+
+# NuGet packages
+packages/
+*.nupkg
+
+# ReSharper и другие инструменты
+_ReSharper.*
+*.resharper
+*.dotSettings
+
+# TeamCity и другие CI инструменты
+_TeamCity.*
+*.teamcity
+*.dotSettings
+
+# Другие файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini
